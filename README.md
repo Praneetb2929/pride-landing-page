@@ -4,6 +4,9 @@ A clean, accessible, and responsive landing page dedicated to celebrating Pride 
 
 ## 📸 Demo
 
+![Image](https://github.com/user-attachments/assets/7dfcc58a-dd4d-4b94-94bf-d3200a685ebe)
+![Image](https://github.com/user-attachments/assets/5882410b-8c6e-4ea2-b138-9cf871d1dac5)
+
 🔗 [Live Demo](#) _(replace with your Netlify/CodePen link)_
 
 ## ✨ Features
